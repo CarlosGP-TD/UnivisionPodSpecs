@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage        = "http://univision.com"
   s.license         = 'No License'
   s.author          = { "Nitin Malik" => "nitin.malik@digiflare.com" }
-  s.source          = { :git => "https://github.com/CarlosGP-TD/Univision-Framework-iOS.git", :tag => "ULOoyalaPlayer/#{s.version.to_s}" }
+  s.source          = { :git => "https://github.com/televisa-univision/Univision-Framework-iOS.git", :tag => "ULOoyalaPlayer/#{s.version.to_s}" }
   s.platform        = :ios, '8.0'
   s.requires_arc    = true
   
