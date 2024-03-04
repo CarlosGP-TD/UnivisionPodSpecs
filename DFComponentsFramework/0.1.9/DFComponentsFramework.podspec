@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = "http://digiflare.com"
   s.license          = 'No License'
   s.author           = { "Digiflare" => "iosteam@digiflare.com" }
-  s.source           = { :git => "https://github.com/univision/Univision-Framework-iOS.git", :tag => s.name + '/' + s.version.to_s }
+  s.source           = { :git => "https://github.com/CarlosGP-TD/Univision-Framework-iOS.git", :tag => s.name + '/' + s.version.to_s }
   s.social_media_url = 'https://twitter.com/digiflare'
 
   s.platform     = :ios, '8.0'

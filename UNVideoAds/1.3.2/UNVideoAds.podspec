@@ -7,7 +7,7 @@ s.description      = "Univision Video Ads"
 s.homepage         = "http://univision.com"
 s.license          = 'No license'
 s.author           = { "Abel Duarte" => "aduarte@univision.net" }
-s.source           = { :git => "https://github.com/univision/UnivisionFrameworkTest.git", :tag => s.name + '/' + s.version.to_s }
+s.source           = { :git => "https://github.com/CarlosGP-TD/UnivisionFrameworkTest.git", :tag => s.name + '/' + s.version.to_s }
 s.platform     = :ios, '8.0'
 s.requires_arc = true
 

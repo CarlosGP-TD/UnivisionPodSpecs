@@ -13,7 +13,7 @@ This repository contains the private Univision [CocoaPods](https://github.com/Co
 To use Univision's pods, add this specs repo to your computer's cocoapods setup:
 ```Shell
 # pod repo add REPO_NAME SOURCE_URL
-pod repo add univision https://github.com/univision/UnivisionPodSpecs.git
+pod repo add univision https://github.com/CarlosGP-TD/UnivisionPodSpecs.git
 ```
 
 To update the repo (in case new PodSpecs were added):
@@ -29,6 +29,6 @@ pod repo push univision exampleSpec.podspec
 
 ## Available components
 
-- [FSClient](https://github.com/univision/Univision-Framework-iOS/tree/master/FSClient)
-- [ULOoyalaPlayer](https://github.com/univision/Univision-Framework-iOS/tree/master/ULOoyalaPlayer)
-- [ULAdobeAuthenticator](https://github.com/univision/Univision-Framework-iOS/tree/master/ULAdobeAuthenticator)
+- [FSClient](https://github.com/CarlosGP-TD/Univision-Framework-iOS/tree/master/FSClient)
+- [ULOoyalaPlayer](https://github.com/CarlosGP-TD/Univision-Framework-iOS/tree/master/ULOoyalaPlayer)
+- [ULAdobeAuthenticator](https://github.com/CarlosGP-TD/Univision-Framework-iOS/tree/master/ULAdobeAuthenticator)

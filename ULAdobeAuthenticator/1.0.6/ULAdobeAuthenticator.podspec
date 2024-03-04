@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = "http://univision.com"
   s.license          = 'No license'
   s.author           = { "Steve Chung" => "steve.chung@digiflare.com" }
-  s.source           = { :git => "https://github.com/univision/Univision-Framework-iOS.git", :tag => s.name + '/' + s.version.to_s }
+  s.source           = { :git => "https://github.com/CarlosGP-TD/Univision-Framework-iOS.git", :tag => s.name + '/' + s.version.to_s }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true

@@ -7,7 +7,7 @@ s.description      = "Shared iOS Univision Video Player Integration"
 s.homepage         = "http://univision.com"
 s.license          = 'No license'
 s.author           = { "Abel Duarte" => "aduarte@us.univision.com" }
-s.source           = { :git => "https://github.com/univision/UnivisionFrameworkTest.git", :tag => s.name + '/' + s.version.to_s }
+s.source           = { :git => "https://github.com/CarlosGP-TD/UnivisionFrameworkTest.git", :tag => s.name + '/' + s.version.to_s }
 s.platform     = :ios, '8.0'
 s.requires_arc = true
 
