@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'http://digiflare.com'
   s.license          = { :type => 'None', :file => 'LICENSE' }
   s.author           = { 'Digiflare' => 'iosteam@digiflare.com' }
-  s.source           = { :git => 'https://github.com/CarlosGP-TD/DFBrowserViewController', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/televisa-univision/DFBrowserViewController', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/Digiflare'
 
   s.platform     = :ios
